@@ -1,5 +1,7 @@
 # 🌐 Web Pilot — OpenClaw Skill
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20this%20project-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/liranudi)
+
 A web search, page reading, and browser automation skill for [OpenClaw](https://github.com/openclaw/openclaw). No API keys required.
 
 ## ♿ Accessibility
@@ -215,6 +217,10 @@ For PDFs, returns `extracted_text` if `pdfplumber` or `PyPDF2` is installed.
 - Cookie consent is **auto-dismissed** on open/navigate
 - Always **close** browser sessions when done
 - `Pillow` is required for range screenshots (`--from`/`--to`)
+
+## Support
+
+If this project is useful to you, consider [buying me a coffee](https://ko-fi.com/liranudi) ☕
 
 ## License
 
